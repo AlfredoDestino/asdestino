@@ -9,26 +9,26 @@ Awarded Best Student in Programming & Networks (2017-2019) at Kimpa Vita Univers
 
 ## Projects
 
-### SONA-SSES (Enterprise Security System, Sonangol EP, 2025–Present)
-- Phase 1: Complete security management desktop system for +200 users with RBAC, audit log, encrypted data (C#/.NET + MySQL).  
-- Phase 2: Extend to remote access via VPN/ZTNA (Master's objective).  
-- [User Manual (Levels 2 & 3)](sonassesasd.pdf)  
-- [Promotional Video](https://youtu.be/41C7MBI42T4) (private access)
-
+### SONA-SSES (Enterprise Security System, Sonangol EP, 2025–Present)  
+- [Standard User Manual (Levels 2 & 3) – 29 pages, English version](sonassesasd.pdf)  
+- [Short promotional video (2 min)](https://youtu.be/41C7MBI42T4)
+- Phase 1 (Completed): Complete security management desktop system for +200 users with RBAC, audit log, encrypted data (C#/.NET + MySQL).  
+- Phase 2 (Master's objective): Extend to remote access via VPN/ZTNA.
 ### NGOLO (Investigation Platform, Ministry of Interior, 2023–2024)
-- Phase 1: Secure desktop platform for investigation and field-intelligence workflows, reducing response time by 40% for 50+ units.
-- Phase 2: Secure remote access for officials abroad via VPN/ZTNA, including those operating outside Angola (Master's objective).
-- [System Presentation](APRES_NGOLO_V19_ENG.pdf)  
+- [System Presentation Manual - 28 pages, English version](APRES_NGOLO_V19_ENG.pdf)
+- Phase 1 (Completed): Secure desktop platform for investigation and field-intelligence workflows, reducing response time by 40% for 50+ units.
+- Phase 2 (Master's objective): Secure remote access for officials abroad via VPN/ZTNA, including those operating outside Angola.  
 - Full demo available upon request (classified).
 
-### EMPACTA (Commercial & Billing System, 2022)
-- AGT-validated ERP under No. 388/AGT/2022 for SMEs, processing 1,000+ invoices/month in Luanda and Bengo.  
-- [Validation Certificate](agtasd.pdf)
-- [Empacta video - Auto Jumek company](https://www.youtube.com/watch?v=chE4cHQUZjs) (private access)
+### EMPACTA (Commercial & Billing System, 2022) 
+- [AGT validation certificate nº 388/2022](agtasd.pdf)
+- [Empacta video - Auto Jumek company](https://www.youtube.com/watch?v=chE4cHQUZjs) 
+- Complete ERP solution (sales, inventory, invoicing) for SMEs and large companies, integrating SAFT tax audit files.
+- Processing +1,000 invoices/month for +10 SMEs in Luanda and Bengo. 
 
 ## Skills
 - Programming: C#, SQL, .NET/WPF...  
 - Security & Networks: VPN, ZTNA, RBAC, Encryption, DLP...  
 - Tools: Visual Studio, Git, MySQL...  
-
-Email: [alfredodestinn@gmail.com](mailto:alfredodestinn@gmail.com) | Phone: +244-945-380-783 | Wapp: +244-923-759-411
+## Contact
+[📨 Send Email](mailto:alfredodestinn@gmail.com) | Phone: +244-945-380-783 | WhatsApp: [💬 Send Message](https://wa.me/244923759411?text=Regards%20Mr.%20Alfredo%2C%0AMy%20name%20is%20%E2%80%A6%0AI%20contacting%20you%20from%20your%20portfolio%2C%0AI%E2%80%99d%20like%20to%20talk%20with%20you%20about%20%E2%80%A6)
