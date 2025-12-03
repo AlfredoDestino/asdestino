@@ -12,7 +12,7 @@ Awarded Best Student in Programming & Networks (2017-2019) at Kimpa Vita Univers
 ### SONA-SSES (Enterprise Security System, Sonangol EP, 2025–Present)
 - Phase 1: Complete security management desktop system for +200 users with RBAC, audit log, encrypted data (C#/.NET + MySQL).  
 - Phase 2: Extend to remote access via VPN/ZTNA (Master's objective).  
-- [User Manual (Levels 2 & 3)](SONA-SSE_Standard_User_Manual_EN_AlfredoDestino.pdf)  
+- [User Manual (Levels 2 & 3)](sonassesasd.pdf)  
 - [Promotional Video](https://youtu.be/41C7MBI42T4) (private access)
 
 ### NGOLO (Investigation Platform, Ministry of Interior, 2023–2024)
@@ -23,7 +23,7 @@ Awarded Best Student in Programming & Networks (2017-2019) at Kimpa Vita Univers
 
 ### EMPACTA (Commercial & Billing System, 2022)
 - AGT-validated ERP under No. 388/AGT/2022 for SMEs, processing 1,000+ invoices/month in Luanda and Bengo.  
-- [Validation Certificate](AGT_validation_certificate_388_2022_PT_AlfredoDestino.pdf)
+- [Validation Certificate](agtasd.pdf)
 
 ## Skills
 - Programming: C#, SQL, .NET/WPF...  
