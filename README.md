@@ -1,16 +1,9 @@
 <p align="center">
-  <img src="profile.jpg" width="180" alt="Alfredo Destino" class="circular-img">
+  <img src="profile.jpg" alt="Alfredo Destino" width="160" style="border-radius: 50%;">
 </p>
 
-<style>
-.circular-img {
-  border-radius: 50%;
-}
-</style>
-
-# Alfredo Destino Portfolio
-
-Computer Engineer | Lead Developer — Enterprise Systems | Information Security Enthusiast
+<h1 align="center">Alfredo Destino Portfolio</h1>
+<p align="center">Computer Engineer | Lead Developer | Cyber Security Enthusiast</p>
 
 ## About Me
 Computer Engineer and Lead Software Developer with 7 years of experience designing and deploying secure enterprise systems for national institutions in Angola, including Sonangol EP, Ministry of Interior and the Tax Authority (AGT). 
