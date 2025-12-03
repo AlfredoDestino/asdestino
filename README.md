@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile.jpg" alt="Alfredo Destino" width="160" style="border-radius: 50%;">
+  <img src="Profilephoto.png" alt="Alfredo Destino" width="160" style="border-radius: 50%;">
 </p>
 
 <h1 align="center">Alfredo Destino Portfolio</h1>
