@@ -23,10 +23,10 @@ Currently applying for an **MSc in Information & Cyber Security in Switzerland**
 ---
 
 ## 💼 Key Projects
-### 🔐 Protected PDF Notice
+#### 🔐 Protected PDF Notice
 > ⚠️ **Security Notice:**  
 > Due to the institutional and sensitive nature of the following systems, **technical manuals are published as password-protected PDF files** to ensure institutional security and compliance.  
-> The access password is provided exclusively in my **CV** submitted as MSc's academic applications, **upon request**, and for **authorized reviewers**.
+> The access password is provided exclusively in my **CV** submitted as MSc's academic applications; **upon request**; and for **authorized reviewers**.
 
 ---
 
