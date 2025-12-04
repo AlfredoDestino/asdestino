@@ -34,7 +34,7 @@ Currently applying for an **MSc in Information & Cyber Security in Switzerland**
 - 📘 **Standard User Manual — 29 pages (English, Password-Protected 🔒)**  
   [Download PDF](sonassesasd.pdf)  
 - 🎬 **Promotional Video (2 min)**  
-  https://youtu.be/41C7MBI42T4  
+  [https://youtu.be/41C7MBI42T4](https://youtu.be/41C7MBI42T4)  
 - **Phase 1 (Completed):** Security management platform for **200+ users**, featuring RBAC, encrypted data, audit logs and enterprise-grade security (C#/.NET + MySQL).  
 - **Phase 2 (MSc Goal):** Extension to secure remote access via **VPN / Zero-Trust Network Access (ZTNA)**.
 - **Full demonstration available upon request (classified).**
