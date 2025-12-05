@@ -31,8 +31,8 @@ Currently applying for an **MSc in Information & Cyber Security in Switzerland**
 ---
 
 ### **SONA-SSES — Enterprise Security System (Sonangol EP, 2025–Present)**  
-- 📘 **Standard User Manual — 29 pages (English, Password-Protected 🔒)**  
-  [Download PDF](sonassesasd.pdf)  
+- 📘 **Standard User Manual — 45 pages (English, Password-Protected 🔒)**  
+  [Download PDF](SONA_SSES_SUM1.0.pdf)  
 - 🎬 **Promotional Video (2 min)**  
   [https://youtu.be/41C7MBI42T4](https://youtu.be/41C7MBI42T4)  
 - **Phase 1 (Completed):** Security management platform for **200+ users**, featuring RBAC, encrypted data, audit logs and enterprise-grade security (C#/.NET + MySQL).  
