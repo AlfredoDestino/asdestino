@@ -31,7 +31,7 @@ Currently applying for an **MSc in Information & Cyber Security in Switzerland**
 ---
 
 ### **SONA-SSES — Enterprise Security System (Sonangol EP, 2025–Present)**  
-- 📘 **Standard User Manual — 45 pages (English, Password-Protected 🔒)**  
+- 📘 **Standard User Manual 1.0 — 45 pages (English, Password-Protected 🔒)**  
   [Download PDF](SONA_SSES_SUM1.0.pdf)  
 - 🎬 **Promotional Video (2 min)**  
   [https://youtu.be/41C7MBI42T4](https://youtu.be/41C7MBI42T4)  
@@ -42,7 +42,7 @@ Currently applying for an **MSc in Information & Cyber Security in Switzerland**
 ---
 
 ### **NGOLO — Investigation & Intelligence Platform (Ministry of Interior, 2023–2024)**  
-- 📘 **System Presentation Manual — 28 pages (English, Password-Protected 🔒)**  
+- 📘 **System Presentation Manual 1.1 — 28 pages (English, Password-Protected 🔒)**  
   [Download PDF](APRES_NGOLO_V19_ENG.pdf)  
 - **Phase 1 (Completed):** Secure desktop platform for investigation & field-intelligence workflows reducing operational response time by **40%** for **10+ units in Dande Municipality**.  
 - **Phase 2 (MSc Goal):** Nationwide secure remote access for officials, including those operating internationally (VPN/ZTNA).  
@@ -53,7 +53,7 @@ Currently applying for an **MSc in Information & Cyber Security in Switzerland**
 ### **EMPACTA — Commercial & Billing System (2022)**  
 - 📃✔️ **AGT Validation Certificate nº 388/2022**  
   [Download PDF](agtasd.pdf)
-- 📘 **User Manual — 75 pages (Portuguese)**  
+- 📘 **User Manual 1.0 — 75 pages (Portuguese)**  
  [Download PDF](EMPACTA_Manual_do_Utilizador.pdf)
 - 🚗 **Client Demo — Auto Jumek**  
   [https://www.youtube.com/watch?v=chE4cHQUZjs](https://www.youtube.com/watch?v=chE4cHQUZjs)  
