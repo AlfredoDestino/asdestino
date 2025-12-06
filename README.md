@@ -2,7 +2,7 @@
   <img src="banner.png" alt="Alfredo Destino Banner" width="100%" style="max-width: 1200px;">
 </p>
 
-<h1 align="center" style="margin-top:-40px;">Alfredo Destino</h1>
+<h1 align="center" style="margin-top:-45px;">Alfredo Destino</h1>
 
 <p align="center">
   <strong>Computer Engineer • Lead Enterprise Software Engineer (C#/.NET) • Information & Cyber Security Specialist (MSc Candidate, Switzerland 2026)</strong>
