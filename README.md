@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Alfredo Destino Banner" width="100%" style="max-width: 1200px;">
+  <img src="banner2.png" alt="Alfredo Destino Banner" width="100%" style="max-width: 1200px;">
 </p>
 
 <h1 align="center" style="margin-top:-15px;">Alfredo Destino</h1>
