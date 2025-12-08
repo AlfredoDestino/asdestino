@@ -1,92 +1,127 @@
 <p align="center">
-  <img src="banner2.png" alt="Alfredo Destino Banner" width="100%" style="max-width: 1200px;">
+  <img src="banner2.png" alt="Alfredo Destino Banner" width="100%" style="max-width: 1180px; border-radius: 12px;">
 </p>
 
-<h1 align="center" style="margin-top:-15px;">Alfredo Destino</h1>
+<h1 align="center" style="margin-top: -10px; font-weight: 700;">Alfredo Destino</h1>
 
 <p align="center">
-  <strong>Computer Engineer • Lead Enterprise Software Engineer (C#/.NET) • Information & Cyber Security Specialist (MSc Candidate, Switzerland 2026)</strong>
+  <strong>Computer Engineer • Lead Enterprise Software Engineer (C#/.NET) • Information & Cyber Security Specialist • MSc Candidate Switzerland 2026</strong>
 </p>
 
+<br>
 
+<!--━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-->
+<h2 align="left">👤 ABOUT ME</h2>
+<!--━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-->
 
+Computer Engineer and Lead Enterprise Software Developer with 7+ years of hands-on experience designing and deploying secure, mission-critical systems for national institutions in Angola, including  
+[Sonangol EP](https://www.sonangol.co.ao/), the [Ministry of Interior](https://www.minint.gov.ao/), and the [Tax Authority – AGT](http://www.agt.minfin.gov.ao/).
 
+Awarded **Best Student in Programming & Networks (2017–2019)** at Kimpa Vita University.  
+Served as Lab Monitor & Lecturer, supporting academic innovation and technical training.
 
-
----
-
-## 👤 About Me
-Computer Engineer and Lead Enterprise Software Developer with 7 years of experience designing and deploying secure, mission-critical systems for national institutions in Angola, including [Sonangol EP](https://www.sonangol.co.ao/), the [Ministry of Interior](https://www.minint.gov.ao/), and the [Tax Authority - AGT](http://www.agt.minfin.gov.ao/).
-
-Awarded **Best Student in Programming & Networks (2017–2019)** at Kimpa Vita University, where I also served as Lab Monitor and Lecturer.
-
-Currently applying for an **MSc in Information & Cyber Security in Switzerland**, with the objective of expanding expertise in secure architecture, cryptography, and applied cybersecurity for large-scale national infrastructures.
+Currently applying for an **MSc in Information & Cyber Security (Switzerland)** — aiming to advance expertise in secure architectures, cryptography, and large-scale security ecosystems.
 
 🔗 **LinkedIn:** [linkedin.com/in/asdestino](https://www.linkedin.com/in/asdestino)
 
+<br>
+
+<!--━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-->
+<h2 align="left">💼 KEY PROJECTS</h2>
+<!--━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-->
+
+### 🔐 **Protected PDF Notice**
+> ⚠️ Due to the institutional nature of these systems, **technical manuals are password-protected** to comply with security and confidentiality requirements.  
+> Access is granted only to **authorized reviewers**, included in my MSc applications, or upon verified request.
+
 ---
 
-## 💼 Key Projects
-#### 🔐 Protected PDF Notice
-> ⚠️ **Security Notice:**  
-> Due to the institutional and sensitive nature of the following systems, **technical manuals are published as password-protected PDF files** to ensure institutional security and compliance.  
-> The access password is provided exclusively in my **CV** submitted as MSc academic applications; **upon request**; and for **authorized reviewers**.
+## ⭐ **SONA-SSES — Sonangol Corporate Security Platform**  
+### *(Sonangol EP, 2025–Present)*
 
----
+- 📘 **Standard User Manual 1.0 — 45 pages (English, Password-Protected)**  
+<p align="center">
+  <a href="SONA_SSES_SUM1.0.pdf">
+    <img src="cover_sona.png" alt="SONA-SSES Manual Cover" width="420" style="border-radius: 14px; box-shadow: 0 3px 10px rgba(0,0,0,0.18);">
+  </a>
+</p>
+<p align="center">
+  <a href="SONA_SSES_SUM1.0.pdf"><strong>📥 Download PDF</strong></a>
+</p>
 
-### **SONA-SSES — Sonangol's corporate security platform ([Sonangol EP](https://www.sonangol.co.ao/), 2025–Present)**  
-- 📘 **Standard User Manual 1.0 — 45 pages (English, Password-Protected 🔒)**
-  <p align="center"> <a href="SONA_SSES_SUM1.0.pdf"> <img src="cover_sona.png" alt="SONA-SSES Manual Cover" width="420" style="border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.25);"> </a> </p> <p align="center"> <a href="SONA_SSES_SUM1.0.pdf"><strong>📥 Download PDF</strong></a> </p>
-
-- 🎬 **Introductory Video (2 min)**  
-  [https://youtu.be/41C7MBI42T4](https://youtu.be/41C7MBI42T4)  
-- **Phase 1 (Completed):** Security management platform for **200+ users**, featuring RBAC, encrypted data, audit logs and enterprise-grade security (C#/.NET + MySQL).  
-- **Phase 2 (MSc Goal):** Extension to secure remote access via **VPN / Zero-Trust Network Access (ZTNA)**.  
+- 🎬 **Intro Video (2 min):** https://youtu.be/41C7MBI42T4  
+- **Phase 1:** Enterprise security management for 200+ users.  
+- **Phase 2:** Secure remote access via **VPN / Zero-Trust (ZTNA)**.  
 - **Full demonstration available upon request (classified).**
 
 ---
 
-### **NGOLO — Police Investigation & Intelligence Platform ([Ministry of Interior](https://www.minint.gov.ao/), 2023–2024)**  
-- 📘 **NGOLO Presentation Manual 1.1 — 28 pages (English, Password-Protected 🔒)**
-  <p align="center"> <a href="APRES_NGOLO_V19_ENG.pdf"> <img src="cover_ngolo.png" alt="NGOLO Manual Cover" width="420" style="border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.25);"> </a> </p> <p align="center"> <a href="APRES_NGOLO_V19_ENG.pdf"><strong>📥 Download PDF</strong></a> </p>  
+## ⭐ **NGOLO — Police Investigation & Intelligence Platform**  
+### *(Ministry of Interior, 2023–2024)*
 
-- **Phase 1 (Completed):** Secure desktop platform for investigation & field-intelligence workflows reducing operational response time by **40%** for **10+ units in Dande Municipality**.  
-- **Phase 2 (MSc Goal):** Nationwide secure remote access for officials, including those operating internationally (VPN/ZTNA).  
-- **Full demonstration available upon request (classified).**
+- 📘 **Presentation Manual 1.1 — 28 pages (English, Password-Protected)**  
+<p align="center">
+  <a href="APRES_NGOLO_V19_ENG.pdf">
+    <img src="cover_ngolo.png" alt="NGOLO Manual Cover" width="420" style="border-radius: 14px; box-shadow: 0 3px 10px rgba(0,0,0,0.18);">
+  </a>
+</p>
+<p align="center">
+  <a href="APRES_NGOLO_V19_ENG.pdf"><strong>📥 Download PDF</strong></a>
+</p>
+
+- Reduced operational response time by **40%** across security units.  
+- Nationwide expansion (ZTNA/VPN) planned as MSc research component.
 
 ---
-### **EMPACTA — Commercial & Billing System ([AGT](http://www.agt.minfin.gov.ao/), 2022)**  
-- 📃✔️ **AGT Validation Certificate nº 388/2022**<br>
+
+## ⭐ **EMPACTA — Commercial & Billing System**  
+### *(AGT, 2022)*
+
+- 📃✔️ **AGT Validation Certificate nº 388/2022**  
   [Download PDF](agtasd.pdf)
+
 - 📘 **User Manual 1.0 — 75 pages (Portuguese)**  
-  <p align="center"> <a href="EMPACTA_Manual_do_Utilizador.pdf"> <img src="cover_empacta.png" alt="EMPACTA Manual Cover" width="420" style="border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.25);"> </a> </p> <p align="center"> <a href="EMPACTA_Manual_do_Utilizador.pdf"><strong>📥 Download PDF</strong></a> </p>
+<p align="center">
+  <a href="EMPACTA_Manual_do_Utilizador.pdf">
+    <img src="cover_empacta.png" alt="EMPACTA Manual Cover" width="420" style="border-radius: 14px; box-shadow: 0 3px 10px rgba(0,0,0,0.18);">
+  </a>
+</p>
+<p align="center">
+  <a href="EMPACTA_Manual_do_Utilizador.pdf"><strong>📥 Download PDF</strong></a>
+</p>
 
-- 🚗 **Client Demo — Auto Jumek**  
-  [https://www.youtube.com/watch?v=chE4cHQUZjs](https://www.youtube.com/watch?v=chE4cHQUZjs)  
-- Complete ERP for SMEs and large companies (sales, stock, taxation, SAFT).  
-- Processes **1,000+ invoices/month** across **10+ companies** in Luanda and Bengo.
+- Processes **1,000+ invoices/month** across multiple companies.  
+- Full ERP: sales, stock, taxation, reporting, SAFT integration.
 
----
-## 💎 Skills Overview
+<br>
+
+<!--━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-->
+<h2 align="left">💎 SKILLS OVERVIEW</h2>
+<!--━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-->
 
 ### **Programming**
-C#, .NET (WinForms/WPF), SQL, MySQL, Batch Script
+C#, .NET (WinForms/WPF), SQL, MySQL, Batch, Systems Architecture  
 
 ### **Cyber Security & Networks**
-VPN, ZTNA, RBAC, Encryption, DLP, Secure Architecture, Audit & Compliance
+VPN, ZTNA, RBAC, Encryption, DLP, Secure Architecture, Compliance, Auditing  
 
 ### **Tools**
-Visual Studio, Git/GitHub, XAMPP, Crystal Reports, MS Visio, Cisco Packet Tracer, GNS3, OpenSSL, 7-Zip, Notepad++
+Visual Studio, Git/GitHub, XAMPP, Crystal Reports, MS Visio, Cisco Packet Tracer, GNS3, OpenSSL  
 
----
+<br>
 
-## 📱 Contact
-📨 Email: [alfredodestinn@gmail.com](mailto:alfredodestinn@gmail.com)  
-📲 Phone: +244-945-380-783  
-💬 WhatsApp: [Send Message](https://wa.me/244923759411?text=Regards%20Mr.%20Alfredo%2C%0AMy%20name%20is%20%E2%80%A6%0AI%20contacting%20you%20from%20your%20portfolio%2C%0AI%E2%80%99d%20like%20to%20talk%20with%20you%20about%20%E2%80%A6)
+<!--━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-->
+<h2 align="left">📱 CONTACT</h2>
+<!--━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-->
 
----
+📨 **Email:** [alfredodestinn@gmail.com](mailto:alfredodestinn@gmail.com)  
+📲 **Phone:** +244-945-380-783  
+💬 **WhatsApp:** [Message Me](https://wa.me/244923759411?text=Hello%20Mr.%20Alfredo%2C%0AI'm%20contacting%20you%20from%20your%20GitHub%20portfolio...)
 
+
+<!--━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-->
+<h2 align="center">...</h2>
+<!--━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-->
 <p align="center">
-  <sub>“Together we can.” — Helen Keller</sub>
+  <sub><em>“Together we can.” — Helen Keller</em></sub>
 </p>
