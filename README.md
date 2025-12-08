@@ -35,8 +35,9 @@ Currently applying for an **MSc in Information & Cyber Security in Switzerland**
 ---
 
 ### **SONA-SSES — Sonangol's corporate security platform ([Sonangol EP](https://www.sonangol.co.ao/), 2025–Present)**  
-- 📘 **Standard User Manual 1.0 — 45 pages (English, Password-Protected 🔒)**  
-  [Download PDF](SONA_SSES_SUM1.0.pdf)  
+- 📘 **Standard User Manual 1.0 — 45 pages (English, Password-Protected 🔒)**
+  <p align="center"> <a href="SONA_SSES_SUM1.0.pdf"> <img src="cover_sona.png" alt="SONA-SSES Manual Cover" width="420" style="border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.25);"> </a> </p> <p align="center"> <a href="SONA_SSES_SUM1.0.pdf"><strong>📥 Download PDF</strong></a> </p>
+
 - 🎬 **Introductory Video (2 min)**  
   [https://youtu.be/41C7MBI42T4](https://youtu.be/41C7MBI42T4)  
 - **Phase 1 (Completed):** Security management platform for **200+ users**, featuring RBAC, encrypted data, audit logs and enterprise-grade security (C#/.NET + MySQL).  
@@ -46,26 +47,26 @@ Currently applying for an **MSc in Information & Cyber Security in Switzerland**
 ---
 
 ### **NGOLO — Police Investigation & Intelligence Platform ([Ministry of Interior](https://www.minint.gov.ao/), 2023–2024)**  
-- 📘 **NGOLO Presentation Manual 1.1 — 28 pages (English, Password-Protected 🔒)**  
-  [Download PDF](APRES_NGOLO_V19_ENG.pdf)  
+- 📘 **NGOLO Presentation Manual 1.1 — 28 pages (English, Password-Protected 🔒)**
+  <p align="center"> <a href="APRES_NGOLO_V19_ENG.pdf"> <img src="cover_ngolo.png" alt="NGOLO Manual Cover" width="420" style="border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.25);"> </a> </p> <p align="center"> <a href="APRES_NGOLO_V19_ENG.pdf"><strong>📥 Download PDF</strong></a> </p>  
+
 - **Phase 1 (Completed):** Secure desktop platform for investigation & field-intelligence workflows reducing operational response time by **40%** for **10+ units in Dande Municipality**.  
 - **Phase 2 (MSc Goal):** Nationwide secure remote access for officials, including those operating internationally (VPN/ZTNA).  
 - **Full demonstration available upon request (classified).**
 
 ---
-
 ### **EMPACTA — Commercial & Billing System ([AGT](http://www.agt.minfin.gov.ao/), 2022)**  
-- 📃✔️ **AGT Validation Certificate nº 388/2022**  
+- 📃✔️ **AGT Validation Certificate nº 388/2022**<br>
   [Download PDF](agtasd.pdf)
 - 📘 **User Manual 1.0 — 75 pages (Portuguese)**  
-  [Download PDF](EMPACTA_Manual_do_Utilizador.pdf)
+  <p align="center"> <a href="EMPACTA_Manual_do_Utilizador.pdf"> <img src="cover_empacta.png" alt="EMPACTA Manual Cover" width="420" style="border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.25);"> </a> </p> <p align="center"> <a href="EMPACTA_Manual_do_Utilizador.pdf"><strong>📥 Download PDF</strong></a> </p>
+
 - 🚗 **Client Demo — Auto Jumek**  
   [https://www.youtube.com/watch?v=chE4cHQUZjs](https://www.youtube.com/watch?v=chE4cHQUZjs)  
 - Complete ERP for SMEs and large companies (sales, stock, taxation, SAFT).  
 - Processes **1,000+ invoices/month** across **10+ companies** in Luanda and Bengo.
 
 ---
-
 ## 💎 Skills Overview
 
 ### **Programming**
