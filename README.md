@@ -36,8 +36,8 @@ Currently applying for an **MSc in Information & Cyber Security (Switzerland)** 
 
 ---
 
-## ⭐ **SONA-SSES — Sonangol Corporate Security Platform**  
-### *(Sonangol EP, 2025–Present)*
+## ❏ **SONA-SSES — Sonangol Corporate Security Platform**  
+### *([Sonangol EP](https://www.sonangol.co.ao/), 2025–Present)*
 
 - 📘 **Standard User Manual 1.0 — 45 pages (English, Password-Protected)**  
 <p align="center">
@@ -56,8 +56,8 @@ Currently applying for an **MSc in Information & Cyber Security (Switzerland)** 
 
 ---
 
-## ⭐ **NGOLO — Police Investigation & Intelligence Platform**  
-### *(Ministry of Interior, 2023–2024)*
+## ❏ **NGOLO — Police Investigation & Intelligence Platform**  
+### *([Ministry of Interior](https://www.minint.gov.ao/), 2023–2024)*
 
 - 📘 **Presentation Manual 1.1 — 28 pages (English, Password-Protected)**  
 <p align="center">
@@ -74,8 +74,8 @@ Currently applying for an **MSc in Information & Cyber Security (Switzerland)** 
 
 ---
 
-## ⭐ **EMPACTA — Commercial & Billing System**  
-### *(AGT, 2022)*
+## ❏ **EMPACTA — Commercial & Billing System**  
+### *([AGT](http://www.agt.minfin.gov.ao/), 2022)*
 
 - 📃✔️ **AGT Validation Certificate nº 388/2022**  
   [Download PDF](agtasd.pdf)
