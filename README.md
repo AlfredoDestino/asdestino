@@ -118,9 +118,9 @@ Visual Studio, Git/GitHub, XAMPP, Crystal Reports, MS Visio, Cisco Packet Tracer
 📲 **Phone:** +244-945-380-783  
 💬 **WhatsApp:** [Message Me](https://wa.me/244923759411?text=Hello%20Mr.%20Alfredo%2C%0AI'm%20contacting%20you%20from%20your%20GitHub%20portfolio...)
 
-
+<br>
 <!--━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-->
-<h2 align="center">...</h2>
+<h2 align="center">🌱</h2>
 <!--━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-->
 <p align="center">
   <sub><em>“Together we can.” — Helen Keller</em></sub>
