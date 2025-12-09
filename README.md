@@ -79,7 +79,10 @@ Currently applying for an **MSc in Information & Cyber Security (Switzerland)** 
 
 - 📃✔️ **AGT Validation Certificate nº 388/2022**  
   [Download PDF](agtasd.pdf)
-
+  
+- **🚗 Client Demo — Auto Jumek**  
+  [Video](https://www.youtube.com/watch?v=chE4cHQUZjs)
+  
 - 📘 **User Manual 1.0 — 75 pages (Portuguese)**  
 <p align="center">
   <a href="EMPACTA_Manual_do_Utilizador.pdf">
@@ -89,6 +92,8 @@ Currently applying for an **MSc in Information & Cyber Security (Switzerland)** 
 <p align="center">
   <a href="EMPACTA_Manual_do_Utilizador.pdf"><strong>📥 Download PDF</strong></a>
 </p>
+
+
 
 - Processes **1,000+ invoices/month** across multiple companies.  
 - Full ERP: sales, stock, taxation, reporting, SAFT integration.
