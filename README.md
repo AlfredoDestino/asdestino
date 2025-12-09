@@ -14,8 +14,7 @@
 <h2 align="left">👤 ABOUT ME</h2>
 <!--━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-->
 
-Computer Engineer and Lead Enterprise Software Developer with 7+ years of hands-on experience designing and deploying secure, mission-critical systems for national institutions in Angola, including  
-[Sonangol EP](https://www.sonangol.co.ao/), the [Ministry of Interior](https://www.minint.gov.ao/), and the [Tax Authority – AGT](http://www.agt.minfin.gov.ao/).
+Computer Engineer and Lead Enterprise Software Developer with 7+ years of hands-on experience designing and deploying secure, mission-critical systems for national institutions in Angola, including [Sonangol EP](https://www.sonangol.co.ao/), the [Ministry of Interior](https://www.minint.gov.ao/), and the [Tax Authority – AGT](http://www.agt.minfin.gov.ao/).
 
 Awarded **Best Student in Programming & Networks (2017–2019)** at Kimpa Vita University.  
 Served as Lab Monitor & Lecturer, supporting academic innovation and technical training.
