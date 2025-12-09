@@ -48,7 +48,7 @@ Currently applying for an **MSc in Information & Cyber Security (Switzerland)** 
   <a href="SONA_SSES_SUM1.0.pdf"><strong>📥 Download PDF</strong></a>
 </p>
 
-- 🎬 **Intro Video (2 min):** https://youtu.be/41C7MBI42T4  
+- [🎬 **Intro Video (2 min)**](https://youtu.be/41C7MBI42T4)  
 - **Phase 1:** Enterprise security management for 200+ users.  
 - **Phase 2:** Secure remote access via **VPN / Zero-Trust (ZTNA)**.  
 - **Full demonstration available upon request (classified).**
@@ -80,7 +80,7 @@ Currently applying for an **MSc in Information & Cyber Security (Switzerland)** 
   [Download PDF](agtasd.pdf)
   
 - **🚗 Client Demo — Auto Jumek**  
-  [Video](https://www.youtube.com/watch?v=chE4cHQUZjs)
+  [🎬 Video (6 min)](https://www.youtube.com/watch?v=chE4cHQUZjs)
   
 - 📘 **User Manual 1.0 — 75 pages (Portuguese)**  
 <p align="center">
