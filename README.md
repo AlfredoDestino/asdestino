@@ -68,7 +68,7 @@ Currently applying for an **MSc in Information & Cyber Security (Switzerland)** 
   <a href="Apresentação_Ngolo1.1.pdf"><strong>📥 Download PDF</strong></a>
 </p>
 
-- Reduced operational response time by **40%** across security units.  
+- Reduced operational response time by **40%** across +10 units.  
 - Nationwide expansion (ZTNA/VPN) planned as MSc research component.
 
 ---
