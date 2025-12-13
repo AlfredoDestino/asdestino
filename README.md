@@ -30,8 +30,8 @@ Currently applying for an **MSc in Information & Cyber Security (Switzerland)** 
 <!--━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-->
 
 ### 🔐 **Protected PDF Notice**
-> ⚠️ Due to the institutional nature of these systems, **technical manuals are password-protected** to comply with security and confidentiality requirements.  
-> Access is granted only to **authorized reviewers**, included in my MSc applications, or upon verified request.
+> ⚠️ Due to the institutional nature of SONA-SSES and NGOLO system, **technical manuals are password-protected** to comply with security and confidentiality requirements.  
+> Access is granted only to **authorized reviewers**, included in my MSc application, or upon verified request.
 
 ---
 
@@ -79,8 +79,7 @@ Currently applying for an **MSc in Information & Cyber Security (Switzerland)** 
 - 📃✔️ **AGT Validation Certificate nº 388/2022**  
   [Download PDF](agtasd.pdf)
   
-- **🚗 Client Demo — Auto Jumek**  
-  [🎬 Video (6 min)](https://www.youtube.com/watch?v=chE4cHQUZjs)
+- [**🎬 Client Demo Video (6 min)— 🚗 Auto Jumek**](https://www.youtube.com/watch?v=chE4cHQUZjs)  
   
 - 📘 **User Manual 1.0 — 75 pages (Portuguese)**  
 <p align="center">
