@@ -79,9 +79,9 @@ Currently applying for an **MSc in Information & Cyber Security (Switzerland)** 
 - 📃✔️ **AGT Validation Certificate nº 388/2022**  
   [Download PDF](agtasd.pdf)
   
-- [**🎬 Client Demo Video (6 min)— 🚗 Auto Jumek | Luanda province**](https://www.youtube.com/watch?v=chE4cHQUZjs)  
+- [**🎬 Client Demo Video (6 min)— 🚗 Auto Jumek / Luanda province**](https://www.youtube.com/watch?v=chE4cHQUZjs)  
 
-- [**🎬 Client Demo Video (5 min)— 💊 Valemat | Bengo province**](https://www.youtube.com/watch?v=6SgwtPZ5Itw)
+- [**🎬 Client Demo Video (5 min)— 💊 Valemat / Bengo province**](https://www.youtube.com/watch?v=6SgwtPZ5Itw)
   
 - 📘 **User Manual 1.0 — 75 pages (Portuguese)**  
 <p align="center">
