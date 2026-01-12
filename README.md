@@ -68,7 +68,7 @@ Currently applying for an **MSc in Information & Cyber Security (Switzerland)** 
   <a href="Apresentação_Ngolo1.1.pdf"><strong>📥 Download PDF</strong></a>
 </p>
 
-- [**🎬 Ngolo deployment video - 📍in Dande (2 min)**](https://youtube.com/shorts/j7-Q0iAS_RY?si=UBQs7ZpqczXaxV7D)
+- [**🎬 Deployment video - 📍in Dande (2 min)**](https://youtube.com/shorts/j7-Q0iAS_RY?si=UBQs7ZpqczXaxV7D)
 - Reduced operational response time by **40%** across 10+ distributed units.  
 - Nationwide expansion (ZTNA/VPN) planned as MSc research component.
 
