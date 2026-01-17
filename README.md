@@ -56,7 +56,7 @@ Currently applying for an **MSc in Information & Cyber Security (Switzerland)** 
 ---
 
 ## ❏ **NGOLO — Police Investigation & Intelligence Platform**  
-### *([Ministry of Interior](https://www.minint.gov.ao/), 2023–2024)*
+### *([Ministry of Interior](https://www.minint.gov.ao/), 2023–Present)*
 
 - 📘 **Presentation Manual 1.1 — 29 pages (English, Password-Protected)**  
 <p align="center">
