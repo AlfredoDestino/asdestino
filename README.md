@@ -58,17 +58,17 @@ Currently applying for an **MSc in Information & Cyber Security (Switzerland)** 
 ## ❏ **NGOLO — Police Investigation & Intelligence Platform**  
 ### *([Ministry of Interior](https://www.minint.gov.ao/), 2023–2024)*
 
-- 📘 **Presentation Manual 1.1 — 28 pages (English, Password-Protected)**  
+- 📘 **Presentation Manual 1.1 — 29 pages (English, Password-Protected)**  
 <p align="center">
-  <a href="Apresentação_Ngolo1.1.pdf">
+  <a href="NGOLO_ENG.pdf">
     <img src="cover_ngolo.png" alt="NGOLO Manual Cover" width="420" style="border-radius: 14px; box-shadow: 0 3px 10px rgba(0,0,0,0.18);">
   </a>
 </p>
 <p align="center">
-  <a href="Apresentação_Ngolo1.1.pdf"><strong>📥 Download PDF</strong></a>
+  <a href="NGOLO_ENG.pdf"><strong>📥 Download PDF</strong></a>
 </p>
 
-- [**🎬 Deployment video (2 min) - 📍in Dande / Bengo province**](https://youtube.com/shorts/j7-Q0iAS_RY?si=UBQs7ZpqczXaxV7D)
+- [**🎬 Deployment video (2 min) - 📍 in Dande / Bengo province**](https://youtube.com/shorts/j7-Q0iAS_RY?si=UBQs7ZpqczXaxV7D)
 - Reduced operational response time by **40%** across 10+ distributed units.  
 - Nationwide expansion (ZTNA/VPN) planned as MSc research component.
 
