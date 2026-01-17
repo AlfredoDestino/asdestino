@@ -61,7 +61,7 @@ Currently applying for an **MSc in Information & Cyber Security (Switzerland)** 
 - 📘 **Presentation Manual 1.1 — 29 pages (English, Password-Protected)**  
 <p align="center">
   <a href="NGOLO_ENG.pdf">
-    <img src="cover_ngolo.png" alt="NGOLO Manual Cover" width="420" style="border-radius: 14px; box-shadow: 0 3px 10px rgba(0,0,0,0.18);">
+    <img src="cover_ngolo2.png" alt="NGOLO Manual Cover" width="420" style="border-radius: 14px; box-shadow: 0 3px 10px rgba(0,0,0,0.18);">
   </a>
 </p>
 <p align="center">
