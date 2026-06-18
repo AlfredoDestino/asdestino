@@ -88,7 +88,9 @@ Currently applying for an **MSc in Information & Cyber Security (Switzerland)** 
 
 - [**🎬 Client Demo Video (8 min)— 🚗 Anunobi.N / Luanda province**](https://youtu.be/M6mWtVGnmJs?si=d5aNbhjfHDRVidAu)
 
-- [**🎬 Client Demo Video (5 min)— 💊 Zinga Gonga & Filhos / Luanda province**](https://youtu.be/fLNZcE11bnY?si=E0xqtEw-oyitBmCk)  
+- [**🎬 Client Demo Video (5 min)— 💊 Zinga Gonga & Filhos / Luanda province**](https://youtu.be/fLNZcE11bnY?si=E0xqtEw-oyitBmCk)
+
+- [**🌐 Official Facebook Page**](https://www.facebook.com/share/1NzN9hDXPs/)  
   
 - 📘 **User Manual 1.0 — 75 pages (Portuguese)**  
 <p align="center">
