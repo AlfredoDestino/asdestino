@@ -79,6 +79,11 @@ Currently applying for an **MSc in Information & Cyber Security (Switzerland)** 
 
 - 📃✔️ **AGT Validation Certificate nº 388/2022**  
   <strong>[Download PDF](agtasd.pdf)</strong>
+  
+### *([AGT](http://www.agt.minfin.gov.ao/), 2026)*
+
+- 📃✔️ **AGT Validation Certificate nº 388/2022**  
+  <strong>[Download PDF](agt2026.pdf)</strong>
 
 - [**🎬 Client Demo Video (9 min)— 💊 Renata Pucuta / Luanda province**](https://youtu.be/qAMOIImrVd8?si=hl80GF4lzhFhaHCA)
   
